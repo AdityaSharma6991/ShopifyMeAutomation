@@ -1,6 +1,3 @@
-# HulkAppsQASpecialistPracticalTest
-Practical assignment for HulkApps
-
 I divided the entire process into a set of 5 pages-
     1- LoginPage
     2- HomePage
@@ -15,6 +12,3 @@ Then i designed the featurefile that can be easily understood by non-technical p
 Following that a stepdefinition file was created which had lines of code corresponding to each step in the feature file
 
 There isn't anything extra that needs to be downloaded and configured to run this test apart from the regular vsCode and cypress setup, as i have already run "npm install --save-dev cypress-cucumber-preprocessor" and edited packaje.json and cypress.json appropriately
-
-PS. i could've done both the assignments if i had just 1 more day(weekend)
-PPS. they make us work a lot during notice period 😜😜
