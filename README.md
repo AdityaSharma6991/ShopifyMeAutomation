@@ -1,3 +1,29 @@
+**OBJECTIVES-**
+
+CHECKOUT DETAILS VERIFICATION
+You need to create a module in which the following points must be covered.
+- Open Chrome/Electron browser
+- Visit URL(“https://qa-practical-test.myshopify.com”)
+- Enter website password: brauff
+- Redirect to “Catalog” by clicking it from top/header navigation menu
+- Add 1st Product to cart
+- Add 2nd Product to cart
+- Cart Page: Verify Product Price, and Total Price
+- Proceed to checkout
+- Checkout Page: Verify Product Price, and Total Price
+
+CART VERIFICATION WITH OFFER
+You need to create a module in which the following points must be covered.
+- Open Chrome/Electron(if cypress) browser
+- Visit URL(“https://qa-practical-test.myshopify.com”)
+- Enter website password: brauff
+- Redirect to “Catalog” by clicking it from top/header navigation menu
+- Add 1st Product to cart
+- Cart Page: Verify Product Price (Without Offer)
+- Increase Quantity to eligible for discount offer
+- Verify Product Price (With discount Applied)
+
+**SOLUTION-**
 I divided the entire process into a set of 5 pages-
     1- LoginPage
     2- HomePage
